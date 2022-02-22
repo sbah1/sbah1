@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Sulaiman, but call me Sulley!
+#### I am an aspiring Software Engineer.
+![I am an aspiring Software Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**sbah1/sbah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My primary language is C++, but I'm very familiar with the likes of C#, Java, and am learning some Python. I'm working towards becoming a full-stack developer.
 
-Here are some ideas to get you started:
+Feel free to check out the projects I've made over the years!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C++ | C# | C | Java | Eclipse | Visual Studio | And more...
+
+- 🌱 I’m currently learning more about Python! 
+- 📫 How to reach me: Send me an email at sulaimanbah107@gmail.com 
+- ⚡ Fun fact: I have built my own PC. Ask me about it! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbah1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sulaiman-bah-552a84231/)  
+
