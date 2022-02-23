@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sulaiman, but call me Sulley!
 #### I am an aspiring Software Engineer.
-<!--- ![I am an aspiring Software Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) --->
+<!--- ![](https://github.com/sbah1/sbah1/blob/main/banner.gif) --->
 
 My primary language is C++, but I'm very familiar with the likes of C#, Java, and am learning some Python. I'm working towards becoming a full-stack developer.
 
